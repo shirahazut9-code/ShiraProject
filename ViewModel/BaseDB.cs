@@ -70,6 +70,8 @@ namespace ViewModel
                 OleDbCommand command = new OleDbCommand();
                 List<BaseEntity> list = new List<BaseEntity>();
 
+
+
                 try
                 {
                     command.Connection = connection;
