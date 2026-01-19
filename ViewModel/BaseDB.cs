@@ -66,6 +66,7 @@ namespace ViewModel
 
             protected async Task<List<BaseEntity>> SelectAsync(string sqlStr)
             {
+
                 OleDbConnection connection = new OleDbConnection();
                 OleDbCommand command = new OleDbCommand();
                 List<BaseEntity> list = new List<BaseEntity>();
