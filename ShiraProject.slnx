@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../Model/Model/Model.csproj" />
+  <Project Path="ShiraProject/ShiraProject.csproj" />
+  <Project Path="ViewModel/ViewModel.csproj" Id="cc0b3fbf-9557-47b0-90c5-e7dea1ca9b5f" />
+</Solution>
